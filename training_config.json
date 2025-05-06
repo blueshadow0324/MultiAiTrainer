@@ -1,0 +1,7 @@
+{
+  "model": "dense_mnist",
+  "dataset": "mnist",
+  "epochs": 25,
+  "batch_size": 64,
+  "learning_rate": 0.001
+}
